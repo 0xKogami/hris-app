@@ -61,7 +61,7 @@ Aplikasi **Human Resource Information System (HRIS)** berbasis web yang dibangun
 │       └── payrolls/           # Data penggajian
 └── routes/
     └── web.php                 # Definisi rute aplikasi
-
+```
 
 ## About Laravel
 
