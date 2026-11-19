@@ -8,7 +8,7 @@
 </p>
 
 
-# HRIS Web Application (Laravel Portfolio)
+# HRIS Web Application
 
 Aplikasi **Human Resource Information System (HRIS)** berbasis web yang dibangun menggunakan **Laravel 12**, **PHP 8.5**, **MySQL**, **Bootstrap 5.3**, **Boxicons**, dan stylesheet kustom (`hris-theme.css`) dengan pendekatan antarmuka bergaya Sneat serta palet warna lembut (*Warm Linen & Muted Slate*) yang ringan dipandang.
 
@@ -62,7 +62,7 @@ Aplikasi **Human Resource Information System (HRIS)** berbasis web yang dibangun
 └── routes/
     └── web.php                 # Definisi rute aplikasi
 
-    
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
